@@ -4,13 +4,12 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAppS-8NeQE7gS5sSJZycnpt8YoqKLevAE",
-  authDomain: "tca-app-c2270.firebaseapp.com",
-  projectId: "tca-app-c2270",
-  storageBucket: "tca-app-c2270.appspot.com",
-  messagingSenderId: "492505004732",
-  appId: "1:492505004732:web:28d26d39af63b0a6156eb9",
-  measurementId: "G-WRLWYHYFH5"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
