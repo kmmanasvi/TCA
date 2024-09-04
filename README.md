@@ -14,10 +14,8 @@ Node.js and npm (Node Package Manager)
 
 Install the necessary dependencies:
 
-bash
 npm install
 
 Start the frontend development server:
 
-bash
 npm start
