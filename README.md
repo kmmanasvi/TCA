@@ -1,5 +1,5 @@
 # TCA
-Overview
+
 The Team Collaboration App is a comprehensive platform designed to facilitate communication and collaboration among team members. Built with react and firebase.
 Features
 Real-time Messaging: Engage in instant conversations with team members using Socket.io for seamless communication.
